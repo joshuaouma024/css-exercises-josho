@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+#numerodos {
+    color: #4281f5;
+    font-size: 32px;
+}
+
+#numerocuatro {
+    background-color: #42ad4b;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.oddboys{
+    font-family: "Verdana" "DejaVu Sans", serif;
+    background-color:  #FE708A;
+}
+
+#numerotres{
+     font-family: "Verdana" "DejaVu Sans", serif;
+    background-color:  #FE708A;
+    font-size: 24px; 
+}

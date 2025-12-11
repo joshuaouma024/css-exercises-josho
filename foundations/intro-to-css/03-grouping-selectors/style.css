@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.uno{
+background-color: black;
+color: #ffffff;
+}
+
+.dos{
+background-color: yellow;
+}
+
+.uno,
+.dos{
+font-size: 28px;
+font-family: "Helvetica" "Times New Roman", serif;
+}
